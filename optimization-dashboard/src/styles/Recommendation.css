@@ -1,0 +1,27 @@
+.recommendations-container {
+  margin: 20px;
+  padding: 20px;
+  background-color: #fafafa;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.recommendation-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.recommendation-table th,
+.recommendation-table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.recommendation-table th {
+  background-color: #f0f0f0;
+}
+
+.error {
+  color: red;
+}
